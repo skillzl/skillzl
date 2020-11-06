@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm skillzl</h1>
+<h1 align="center">skillzl</h1>
 <h3 align="center">I'm a 16 yo. self-taught programmer from Europe.</h3>
 
 - ⚙️ I’m currently working on [Charliewave Multipurpose Bot](https://github.com/charliewave-me)
@@ -6,6 +6,7 @@
 - 🎓 Learning **React**
 
 - 📫 Contact **webmaster@skillzl.cash**
+Discord: skillzl#9999
 
 
 <h3 align="left">Languages and Tools:</h3>

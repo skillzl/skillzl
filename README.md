@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm skillzl</h1>
-<h3 align="center">I'm a 16 yo. self-taught programmer from Europe.</h3>
+<h1 align="center">skillzl</h1>
+<h3 align="center">16 yo self-taught programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skillzl" alt="skillzl" /></a> </p>
+- ⚙️ Working on [Charliewave](https://github.com/charliewave-me) Project!
 
-- ⚙️ I’m currently working on [Charliewave Multipurpose Bot](https://github.com/charliewave-me)
+- 🎓 Learning **React**, **Vue**
 
-- 🎓 Learning **React**
+- 📫 E-Mail **webmaster@skillzl.cash**
 
-- 📫 Contact **webmaster@skillzl.cash**
+- 📞 Discord: **skillzl#9999**
 
 
 <h3 align="left">Languages and Tools:</h3>

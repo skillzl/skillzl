@@ -7,9 +7,8 @@
 
 - Contact:
 <p align="left">
-  <a href="https://discord.com/users/565960314970177556"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-
-<a href="https://open.spotify.com/user/gfq8gapgnuydzkz0n34zbkcc7"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+<p href="https://discord.com/users/565960314970177556"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
+<p href="https://open.spotify.com/user/gfq8gapgnuydzkz0n34zbkcc7"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 <p/>
 
 📫 E-Mail **webmaster@skillzl.cash**

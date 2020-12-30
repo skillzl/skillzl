@@ -2,8 +2,6 @@
 
 # skillzl 16 yo self-taught programmer
 
-- ⚙️ Working on [Charliewave](https://github.com/charliewave-me) Project!
-
 <h3 align="left">Contact:</h3>
 
 <p align="left"> <a href="https://discord.com/users/565960314970177556"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>

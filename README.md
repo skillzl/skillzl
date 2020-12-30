@@ -1,5 +1,4 @@
-<h1 align="center">skillzl</h1>
-<h3 align="center">16 yo self-taught programmer</h3>
+![alt text](./images/top.png)
 
 - ⚙️ Working on [Charliewave](https://github.com/charliewave-me) Project!
 
@@ -18,3 +17,4 @@
 <h3 align="left">Discord:</h3>
 
 <img src="https://discord.c99.nl/widget/theme-1/565960314970177556.png" align="center" alt="skillzl.cash" href="https://skillzl.cash/">
+![alt text](./images/bottom.png)

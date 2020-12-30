@@ -17,4 +17,5 @@
 <h3 align="left">Discord:</h3>
 
 <img src="https://discord.c99.nl/widget/theme-1/565960314970177556.png" align="center" alt="skillzl.cash" href="https://skillzl.cash/">
+
 ![alt text](./images/bottom.png)

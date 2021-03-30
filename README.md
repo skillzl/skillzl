@@ -1,6 +1,6 @@
 ![alt text](./images/top.png)
 
-# skillzl 16 yo self-taught programmer
+# skillzl 17 yo self-taught programmer
 
 <h3 align="left">Contact:</h3>
 

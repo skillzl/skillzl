@@ -1,5 +1,3 @@
-![alt text](./images/top.png)
-
 # skillzl 17 yo self-taught programmer
 
 <h3 align="left">Contact:</h3>
@@ -12,5 +10,3 @@
 <h3 align="left">Discord:</h3>
 
 <img src="https://discord.c99.nl/widget/theme-1/565960314970177556.png" align="center" alt="skillzl.cash" href="https://skillzl.cash/">
-
-![alt text](./images/bottom.png)

@@ -1,4 +1,4 @@
-# skillzl 17 yo self-taught programmer
+# skillzl
 
 <h3 align="left">Contact:</h3>
 

@@ -1,13 +1,22 @@
-# skillzl
-- self-thought programmer
+```zsh
+> neofetch
+```
 
-<h3 align="left">Socials:</h3>
+<img align="left" src="https://cdn.discordapp.com/avatars/565960314970177556/917295be891e9e9a88801562ea9ef214.png?size=1024" alt="skillzl's avatar" width="320" /> 
 
-<p align="left"> <a href="https://discord.com/users/565960314970177556"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-<a href="https://open.spotify.com/user/gfq8gapgnuydzkz0n34zbkcc7"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
-<a href="mailto:admin@skillzl.cash"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png"></a>
- </p>
-
-<h3 align="left">Discord:</h3>
-
-<img src="https://discord.c99.nl/widget/theme-1/565960314970177556.png" align="center" alt="skillzl.cash" href="https://skillzl.cash/">
+```csharp
+skillzl@github
+-------------------------
+OS: Microsoft Windows 10 Pro
+Shell: zsh 5.7.1
+Pronouns: He/Him
+Location: Romania, EU
+Frameworks: React
+Languages: JavaScript, TypeScript,
+           HTML, CSS
+Learning: Node.js, Express, MongoDB,
+          CPP
+Hobbies: Coding, Gaming, Music
+Stars: 4
+Discord: skillzl#7600
+```

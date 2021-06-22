@@ -11,7 +11,7 @@ OS: Microsoft Windows 10 Pro
 Shell: zsh 5.7.1
 Pronouns: He/Him
 Location: Romania, EU
-Frameworks: React
+Frameworks: NextJs React
 Languages: JavaScript, TypeScript,
            HTML, CSS
 Learning: Node.js, Express, MongoDB,

@@ -1,8 +1,9 @@
+
 ```zsh
 > neofetch
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/789862793846325248/857726267763458088/917295be891e9e9a88801562ea9ef214.png" alt="skillzl's avatar" width="320" /> 
+<a href="https://www.charliewave.me"><img align="left" src="https://charliewave.me/favicon.ico" alt="skillzl's avatar" width="290" /><a/>
 
 ```csharp
 skillzl@github

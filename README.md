@@ -3,21 +3,20 @@
 > neofetch
 ```
 
-<a href="https://chrlwv.tech"><img align="left" src="https://i.imgur.com/nBPAjRl.png" alt="chrlwv" width="290" /><a/>
+<a href="https://chrlwv.tech"><img align="left" src="https://i.imgur.com/nBPAjRl.png" alt="chrlwv.tech" width="298" /><a/>
 
 ```csharp
 skillzl@github
 -------------------------
-OS: Microsoft Windows 11 Pro
+OS: Microsoft Windows 10 Pro
 Shell: zsh 5.7.1
 Pronouns: He/Him
-Location: Romania, EU
-Frameworks: NextJs React
+Age: 18 
+Location: EU
+Frameworks: NextJs, React
 Languages: JavaScript, TypeScript,
            HTML, CSS
-Learning: Node.js, Express, MongoDB,
-          CPP
+Learning: C#, C++
 Hobbies: Coding, Gaming, Music
-Stars: 6
 Discord: skillzl#7600
 ```

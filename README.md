@@ -17,6 +17,6 @@ Frameworks: NextJs, React
 Languages: JavaScript, TypeScript,
            HTML, CSS
 Learning: C#, C++
-Hobbies: Coding, Gaming, Music
+Hobbies: Coding, Gaming, Music, Workout, Driving
 Discord: skillzl#7600
 ```

@@ -8,7 +8,7 @@
 ```csharp
 skillzl@github
 -------------------------
-OS: Microsoft Windows 10 Pro
+OS: Microsoft Windows 11 Pro
 Shell: zsh 5.7.1
 Pronouns: He/Him
 Age: 18 

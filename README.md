@@ -15,8 +15,9 @@ Age: 18
 Location: EU
 Frameworks: NextJs, React
 Languages: JavaScript, TypeScript,
-           HTML, CSS
-Learning: C#, C++
-Hobbies: Coding, Gaming, Music, Workout, Driving
+           HTML, CSS, Go, C#
+Learning: Kotlin
+Ativities: Driving, Workout, Coding
 Discord: skillzl#7600
+Instagram: bnrcatalin
 ```

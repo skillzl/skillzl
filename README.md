@@ -3,8 +3,6 @@
 > neofetch
 ```
 
-<a href="https://chrlwv.tech"><img align="left" src="https://i.imgur.com/nBPAjRl.png" alt="chrlwv.tech" width="298" /><a/>
-
 ```csharp
 skillzl@github
 -------------------------

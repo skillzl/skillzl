@@ -15,7 +15,7 @@ Frameworks: NextJs, React
 Languages: JavaScript, TypeScript,
            HTML, CSS, Go, C#
 Learning: Kotlin
-Ativities: Driving, Workout, Coding
-Discord: skillzl#7600
+Ativities: Driving, Workout, Coding, Wrenching on cars
+Discord: skillzl
 Instagram: bnrcatalin
 ```
